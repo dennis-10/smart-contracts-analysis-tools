@@ -1,2 +1,2 @@
-# smart-contracts-analysis-tools
+# Smart Contracts Analysis Tools
 Repository for submitting the results when analyzing the generated database of Solidity on-chain files with Mythril and Slither. All the vulnerabilities counting are used for generating the respective tables for each tool.
